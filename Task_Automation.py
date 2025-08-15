@@ -16,3 +16,4 @@ for file_name in os.listdir(source_folder):
         moved_count += 1
 
 print(f" {moved_count} .jpg file(s) moved to {destination_folder}")
+
